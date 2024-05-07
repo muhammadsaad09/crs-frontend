@@ -149,6 +149,7 @@ const Home = () => {
                       input4: "",
                       input5: "",
                       input6: "",
+                      input7: "",
                     });
                   }}
                 >
